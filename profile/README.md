@@ -42,10 +42,6 @@
 理事会为最高决策机构，下设五个职能部门。成员工作涵盖**部门任务**与**阅卷协作**，正式成员可享有参与**学术沙龙**等专属权益。<br>
 <small>The Board of Directors is the highest decision-making body, with five functional departments beneath it. Members' responsibilities cover **departmental tasks** and **grading collaboration**; full members are entitled to exclusive benefits such as participation in **academic salons**.</small>
 
-<table width="100%">
-<tr>
-<td colspan="3" valign="top">
-<br />
 <div align="center">
 <font size="5" color="#1a3a6c">⚖️ <strong>理事会 | Board of Directors</strong></font>
 <hr size="1" color="#3b82f6" width="80%" />
@@ -56,104 +52,86 @@
 <sub><font color="#8b5cf6"><i>(注：成员一般从原有成员中产生，熟悉工作后方可加入)<br />
 <small>(Note: Members are generally selected from existing members and may only join after becoming familiar with the work.)</small></i></font></sub>
 </div>
-<br />
-</td>
-</tr>
 
-<tr>
-<td width="33%" valign="top">
-<br />
+---
+
 <div align="center">
 <font size="5" color="#1a3a6c">📅 <strong>秘书处 | Secretariat</strong></font>
 <hr size="1" color="#3b82f6" width="80%" />
 </div>
-<p align="left">常务办事机构。负责决议执行、人员管理、财务事务及试题库运营。是组织运转的"中枢"。<br />
-<small>The executive body. Responsible for implementing resolutions, personnel management, financial affairs, and question bank operations. The "central hub" of organizational functioning.</small></p>
-<blockquote align="left">
-<font color="#166534"><strong>🎯 适合领导力、沟通力和执行力较强的同学。</strong></font><br>
-<small><font color="#166534">Suitable for members with strong leadership, communication, and execution skills.</font></small>
-</blockquote>
-<br />
-</td>
-<td width="33%" valign="top">
-<br />
+
+常务办事机构。负责决议执行、人员管理、财务事务及试题库运营。是组织运转的"中枢"。<br />
+<small>The executive body. Responsible for implementing resolutions, personnel management, financial affairs, and question bank operations. The "central hub" of organizational functioning.</small>
+
+> <font color="#166534"><strong>🎯 适合领导力、沟通力和执行力较强的同学。</strong></font><br>
+> <small><font color="#166534">Suitable for members with strong leadership, communication, and execution skills.</font></small>
+
+---
+
 <div align="center">
 <font size="5" color="#1a3a6c">⚛️ <strong>理论研讨组 | Theoretical Research Group</strong></font>
 <hr size="1" color="#3b82f6" width="80%" />
 </div>
-<p align="left">负责试题的命制、组卷、评估与校对。对国内外前沿试题进行深度学术分析与讨论。<br />
-<small>Responsible for question creation, paper compilation, assessment, and proofreading. Conducts in-depth academic analysis and discussion of cutting-edge problems from China and abroad.</small></p>
-<blockquote align="left">
-<font color="#166534"><strong>🧠 适合理论功底扎实、具批判性思维、对难度平衡感兴的同学。</strong></font><br>
-<small><font color="#166534">Suitable for members with a solid theoretical foundation, critical thinking, and an interest in difficulty balancing.</font></small>
-</blockquote>
+
+负责试题的命制、组卷、评估与校对。对国内外前沿试题进行深度学术分析与讨论。<br />
+<small>Responsible for question creation, paper compilation, assessment, and proofreading. Conducts in-depth academic analysis and discussion of cutting-edge problems from China and abroad.</small>
+
+> <font color="#166534"><strong>🧠 适合理论功底扎实、具批判性思维、对难度平衡感兴趣的同学。</strong></font><br>
+> <small><font color="#166534">Suitable for members with a solid theoretical foundation, critical thinking, and an interest in difficulty balancing.</font></small>
+
 <div align="center">
 <sub><font color="#8b5cf6"><i>命题工作以团队形式展开，需定期完成。<br />
 <small>Question-setting work is carried out in teams and must be completed regularly.</small></i></font></sub>
 </div>
-<br />
-</td>
-<td width="33%" valign="top">
-<br />
+
+---
+
 <div align="center">
 <font size="5" color="#1a3a6c">🧪 <strong>实验研讨组 | Experimental Research Group</strong></font>
 <hr size="1" color="#3b82f6" width="80%" />
 </div>
-<p align="left">负责实验试题的创新命制，分析国内外实验竞赛趋势，探索实验考核的新形式。<br />
-<small>Responsible for innovatively creating experimental problems, analyzing domestic and international experimental competition trends, and exploring new forms of experimental assessment.</small></p>
-<blockquote align="left">
-<font color="#166534"><strong>🛠️ 适合实验经验丰富、动手能力及创新思维出众的同学。</strong></font><br>
-<small><font color="#166534">Suitable for members with rich experimental experience and outstanding hands-on skills and innovative thinking.</font></small>
-</blockquote>
+
+负责实验试题的创新命制，分析国内外实验竞赛趋势，探索实验考核的新形式。<br />
+<small>Responsible for innovatively creating experimental problems, analyzing domestic and international experimental competition trends, and exploring new forms of experimental assessment.</small>
+
+> <font color="#166534"><strong>🛠️ 适合实验经验丰富、动手能力及创新思维出众的同学。</strong></font><br>
+> <small><font color="#166534">Suitable for members with rich experimental experience and outstanding hands-on skills and innovative thinking.</font></small>
+
 <div align="center">
 <sub><font color="#8b5cf6"><i>命题工作以团队形式展开，需定期完成。<br />
 <small>Question-setting work is carried out in teams and must be completed regularly.</small></i></font></sub>
 </div>
-<br />
-</td>
-</tr>
 
-<tr>
-<td colspan="3" valign="top">
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<br />
+---
+
 <div align="center">
 <font size="5" color="#1a3a6c">📢 <strong>宣传联络组 | Publicity & Outreach Group</strong></font>
 <hr size="1" color="#3b82f6" width="80%" />
 </div>
-<p align="left">负责新媒体平台（公众号、网站）运营及外部联络。传播物竞文化，提升组织影响力。<br />
-<small>Responsible for operating new media platforms (official account, website) and external liaison. Spreads the culture of physics competitions and enhances the organization's influence.</small></p>
-<blockquote align="left">
-<font color="#166534"><strong>🎨 适合表达力强、对媒体运营感兴趣。可学习文案、设计及网站管理。</strong></font><br>
-<small><font color="#166534">Suitable for members with strong expression skills and an interest in media operations. Opportunities to learn copywriting, design, and website management.</font></small>
-</blockquote>
+
+负责新媒体平台（公众号、网站）运营及外部联络。传播物竞文化，提升组织影响力。<br />
+<small>Responsible for operating new media platforms (official account, website) and external liaison. Spreads the culture of physics competitions and enhances the organization's influence.</small>
+
+> <font color="#166534"><strong>🎨 适合表达力强、对媒体运营感兴趣。可学习文案、设计及网站管理。</strong></font><br>
+> <small><font color="#166534">Suitable for members with strong expression skills and an interest in media operations. Opportunities to learn copywriting, design, and website management.</font></small>
+
 <div align="center">
 <sub><font color="#8b5cf6"><i>外联与运营需投入日常时间。<br />
 <small>Outreach and operations require regular time investment.</small></i></font></sub>
 </div>
-<br />
-</td>
-<td width="50%" valign="top">
-<br />
+
+---
+
 <div align="center">
 <font size="5" color="#1a3a6c">💻 <strong>技术开发组 | Technical Development Group</strong></font>
 <hr size="1" color="#3b82f6" width="80%" />
 </div>
-<p align="left">负责阅卷系统维护与更新。探索 AI 识别阅卷等信息技术在竞赛组织中的前沿应用。<br />
-<small>Responsible for the maintenance and updating of the grading system. Explores cutting-edge applications of information technology such as AI-assisted grading in competition organization.</small></p>
-<blockquote align="left">
-<font color="#166534"><strong>⚡ 适合有志于计算机专业、富有极客精神和创新意识的同学。</strong></font><br>
-<small><font color="#166534">Suitable for members who aspire to pursue computer science, and who possess a strong hacker spirit and innovative mindset.</font></small>
-</blockquote>
-<br />
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
+
+负责阅卷系统维护与更新。探索 AI 识别阅卷等信息技术在竞赛组织中的前沿应用。<br />
+<small>Responsible for the maintenance and updating of the grading system. Explores cutting-edge applications of information technology such as AI-assisted grading in competition organization.</small>
+
+> <font color="#166534"><strong>⚡ 适合有志于计算机专业、富有极客精神和创新意识的同学。</strong></font><br>
+> <small><font color="#166534">Suitable for members who aspire to pursue computer science, and who possess a strong hacker spirit and innovative mindset.</font></small>
 
 ## 🔗 联系我们 <small>| Contact Us</small>
 
