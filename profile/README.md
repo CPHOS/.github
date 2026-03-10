@@ -42,7 +42,7 @@
 理事会为最高决策机构，下设五个职能部门。成员工作涵盖**部门任务**与**阅卷协作**，正式成员可享有参与**学术沙龙**等专属权益。<br>
 <small>The Board of Directors is the highest decision-making body, with five functional departments beneath it. Members' responsibilities cover **departmental tasks** and **grading collaboration**; full members are entitled to exclusive benefits such as participation in **academic salons**.</small>
 
-<table align="center" width="1000">
+<table width="100%">
 <tr>
 <td colspan="3" valign="top">
 <br />
@@ -61,7 +61,7 @@
 </tr>
 
 <tr>
-<td width="334" valign="top">
+<td width="33%" valign="top">
 <br />
 <div align="center">
 <font size="5" color="#1a3a6c">📅 <strong>秘书处 | Secretariat</strong></font>
@@ -75,7 +75,7 @@
 </blockquote>
 <br />
 </td>
-<td width="333" valign="top">
+<td width="33%" valign="top">
 <br />
 <div align="center">
 <font size="5" color="#1a3a6c">⚛️ <strong>理论研讨组 | Theoretical Research Group</strong></font>
@@ -93,7 +93,7 @@
 </div>
 <br />
 </td>
-<td width="333" valign="top">
+<td width="33%" valign="top">
 <br />
 <div align="center">
 <font size="5" color="#1a3a6c">🧪 <strong>实验研讨组 | Experimental Research Group</strong></font>
