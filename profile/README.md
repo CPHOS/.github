@@ -42,9 +42,9 @@
 理事会为最高决策机构，下设五个职能部门。成员工作涵盖**部门任务**与**阅卷协作**，正式成员可享有参与**学术沙龙**等专属权益。<br>
 <small>The Board of Directors is the highest decision-making body, with five functional departments beneath it. Members' responsibilities cover **departmental tasks** and **grading collaboration**; full members are entitled to exclusive benefits such as participation in **academic salons**.</small>
 
-<table width="100%">
+<table width="100%" style="table-layout: fixed; word-break: break-word;">
 <tr>
-<td colspan="3" valign="top">
+<td colspan="3" valign="top" style="word-break: break-word; overflow-wrap: break-word;">
 <br />
 <div align="center">
 <font size="5" color="#1a3a6c">⚖️ <strong>理事会 | Board of Directors</strong></font>
@@ -61,7 +61,7 @@
 </tr>
 
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="word-break: break-word; overflow-wrap: break-word;">
 <br />
 <div align="center">
 <font size="5" color="#1a3a6c">📅 <strong>秘书处 | Secretariat</strong></font>
@@ -75,7 +75,7 @@
 </blockquote>
 <br />
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="word-break: break-word; overflow-wrap: break-word;">
 <br />
 <div align="center">
 <font size="5" color="#1a3a6c">⚛️ <strong>理论研讨组 | Theoretical Research Group</strong></font>
@@ -93,7 +93,7 @@
 </div>
 <br />
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="word-break: break-word; overflow-wrap: break-word;">
 <br />
 <div align="center">
 <font size="5" color="#1a3a6c">🧪 <strong>实验研讨组 | Experimental Research Group</strong></font>
@@ -114,10 +114,10 @@
 </tr>
 
 <tr>
-<td colspan="3" valign="top">
-<table width="100%">
+<td colspan="3" valign="top" style="word-break: break-word; overflow-wrap: break-word;">
+<table width="100%" style="table-layout: fixed; word-break: break-word;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="word-break: break-word; overflow-wrap: break-word;">
 <br />
 <div align="center">
 <font size="5" color="#1a3a6c">📢 <strong>宣传联络组 | Publicity & Outreach Group</strong></font>
@@ -135,7 +135,7 @@
 </div>
 <br />
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="word-break: break-word; overflow-wrap: break-word;">
 <br />
 <div align="center">
 <font size="5" color="#1a3a6c">💻 <strong>技术开发组 | Technical Development Group</strong></font>
